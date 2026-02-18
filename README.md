@@ -2,7 +2,7 @@
 
 # Overview
 
-Integer Sequence Overflow Analyzer is a console-based C++ program that generates a recursive integer sequence and determines the largest sequence value that can be safely stored in both a signed 32-bit `int` and a signed 64-bit `long long`.
+Number Sequence & Data Type Analyzer is a console-based C++ program that generates a recursive integer sequence and determines the largest sequence value that can be safely stored in both a signed 32-bit `int` and a signed 64-bit `long long`.
 
 The program begins with the fixed starting values 1, 3, and 5, then repeatedly applies a recurrence relation to generate subsequent terms while proactively detecting overflow before it occurs.
 
