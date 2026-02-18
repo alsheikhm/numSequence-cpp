@@ -1,4 +1,5 @@
 # numSequence-cpp
+Number Sequence & Data Type Analyzer
 
 # Overview
 
